@@ -1,6 +1,6 @@
 # script de Web ScrapingURL Final v1.0
 # to extract the TCP/UDP port list from the website frameip.com
-# By shivattaque and ChatGPT 3.5
+# By shivattaque and ChatGPT (3.5)
 
 # Importing modules
 import requests
